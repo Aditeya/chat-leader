@@ -4,6 +4,6 @@ using namespace std;
 
 int main(int argc, char *argv[]) {
 
-  cout << "New file";
+  cout << "New file\n";
   return 0;
 }
