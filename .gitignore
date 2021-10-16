@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/linux,windows,macos,qtcreator,c++,cmake
 # Edit at https://www.toptal.com/developers/gitignore?templates=linux,windows,macos,qtcreator,c++,cmake
 
+chat-leader-gui
+chat-leader-server
+
 ### C++ ###
 # Prerequisites
 *.d
